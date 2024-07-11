@@ -1,6 +1,4 @@
-=============================
 MD5 HASH DECRYPTOR WITH JAVA
-============================
 
 MD5 Decryptor built with Java NetBeans for Mac/Windows.
 
